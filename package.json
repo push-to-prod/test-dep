@@ -1,5 +1,5 @@
 {
-  "name": "test-dep",
+  "name": "test-dep-for-bb-dep",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
