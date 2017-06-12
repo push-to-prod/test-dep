@@ -1,0 +1,22 @@
+{
+  "name": "test-dep",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/push-to-prod/test-dep.git"
+  },
+  "author": "Charlie Duong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/push-to-prod/test-dep/issues"
+  },
+  "homepage": "https://github.com/push-to-prod/test-dep#readme",
+  "description": "",
+  "dependencies": {
+    "gk-test-repo": "^1.0.0"
+  }
+}
